@@ -6,4 +6,3 @@ We build quality websites for youtubers, we are just getting started so we have 
 ------------------------------- |
 | Staff = NONE                  |
 | Websites built = NONE         |
-|-------------------------------|
